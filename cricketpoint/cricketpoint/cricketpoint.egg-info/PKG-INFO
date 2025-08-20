@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: cricketpoint
+Version: 1.0
+Summary: A package to calculate cricket man of the match.
+Home-page: #
+Author: Digesh
+Author-email: digesh3272@gmail.com
+License: MIT
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: license
+Dynamic: summary
